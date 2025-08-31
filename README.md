@@ -1,4 +1,5 @@
-# ![Logo PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)
+# <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Logo PostgreSQL" width="30"/>
+
 Trabalho-de-Banco-de-dados-PostgreSQL
 
 # 🎯 Mural SGDB – PostgreSQL  
