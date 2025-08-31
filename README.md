@@ -1,6 +1,6 @@
 # <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Logo PostgreSQL" width="50"/> Trabalho-de-Banco-de-dados-PostgreSQL
 
-# 🕒 Linha do Tempo – PostgreSQL (Horizontal)
+# 🕒 Linha do Tempo – PostgreSQL
 
 <p align="center">
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Logo PostgreSQL" width="120"/>
