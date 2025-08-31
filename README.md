@@ -1,4 +1,4 @@
-# ![Gif animado](https://i.pinimg.com/originals/21/0e/99/210e99bd72210774d9754c27e5a52fef.gif)
+# ![Gif animado](https://i.pinimg.com/originals/77/34/84/7734845e3661ecbc15ca48f02bbd3d3c.gif)
 Trabalho-de-Banco-de-dados-PostgreSQL
 
 # 🎯 Mural SGDB – PostgreSQL  
