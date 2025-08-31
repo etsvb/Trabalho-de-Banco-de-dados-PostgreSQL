@@ -1,5 +1,19 @@
 # <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Logo PostgreSQL" width="50"/> Trabalho-de-Banco-de-dados-PostgreSQL
 
+# 🕒 Linha do Tempo – PostgreSQL (Horizontal)
+
+<p align="center">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Logo PostgreSQL" width="120"/>
+</p>
+
+| 📌 Ano | 🔎 Marco / Evento | 📖 Detalhes |
+|--------|------------------|-------------|
+| **1986** | Projeto POSTGRES | Criado na Universidade da Califórnia, Berkeley, por Michael Stonebraker. Sucessor do projeto Ingres. |
+| **1996** | PostgreSQL | Adição de suporte a SQL e mudança oficial de nome para PostgreSQL (open-source). |
+| **2005** | Consolidação | Inclusão do MVCC (controle de concorrência multiversão) e linguagens procedurais. |
+| **2010+** | Expansão | Suporte a JSON, híbrido relacional + NoSQL, segurança avançada e compatibilidade multiplataforma. |
+| **Atualidade** | Popularidade global | Empresas como Instagram, Spotify, Apple e TripAdvisor utilizam. Ferramentas como pgAdmin e DBeaver apoiam. |
+
 ## 🕒 Linha do Tempo - PostgreSQL
 
 ### 📌 1986 - Início do Projeto POSTGRES
