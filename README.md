@@ -2,7 +2,7 @@
 
 # 🎯 Mural SGDB – PostgreSQL  
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3_ABebrcKM6_91YZTp7yNtcjFLNpQpBRkw&s" alt="gif-estudante" width="50"
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3_ABebrcKM6_91YZTp7yNtcjFLNpQpBRkw&s" alt="Banner PostgreSQL" width="50"/>
 
 ## 📌 Identificação do SGBD
 - **Nome:** PostgreSQL  
