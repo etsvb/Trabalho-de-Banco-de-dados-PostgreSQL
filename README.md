@@ -14,56 +14,6 @@
 | **2010+** | Expansão | Suporte a JSON, híbrido relacional + NoSQL, segurança avançada e compatibilidade multiplataforma. |
 | **Atualidade** | Popularidade global | Empresas como Instagram, Spotify, Apple e TripAdvisor utilizam. Ferramentas como pgAdmin e DBeaver apoiam. |
 
-## 🕒 Linha do Tempo - PostgreSQL
-
-### 📌 1986 - Início do Projeto POSTGRES
-- Desenvolvido na Universidade da Califórnia, Berkeley.
-- Criado pelo professor Michael Stonebraker.
-- Sucessor do projeto **Ingres**.
-
----
-
-### 📌 1996 - Surge o PostgreSQL
-- Adicionado suporte a **SQL**.
-- Comunidade renomeia o projeto para **PostgreSQL**.
-- Licença **open-source**.
-
----
-
-### 📌 2005 - Consolidação
-- Suporte a **MVCC (controle de concorrência multiversão)**.
-- Adição de **funções e linguagens procedurais**.
-- Tornou-se popular em empresas e universidades.
-
----
-
-### 📌 2010 em diante
-- Compatível com diferentes sistemas operacionais.
-- Suporte a **JSON** e **NoSQL híbrido**.
-- Segurança e criptografia avançada.
-- Transações ACID garantidas.
-
----
-
-### 📌 Atualidade
-- Um dos SGBDs mais usados no mundo.
-- Comunidade ativa e grande base de documentação.
-- Usado por empresas como **Instagram, Spotify, Apple e Red Hat**.
-- Interfaces gráficas: **pgAdmin, DBeaver**.
-
----
-
-## ⚖️ Vantagens
-✔ Open-source e gratuito  
-✔ Alta confiabilidade e estabilidade  
-✔ Suporte a dados relacionais e não-relacionais  
-
-## ⚠️ Limitações
-❌ Configuração inicial pode ser complexa  
-❌ Performance pode exigir tuning em grandes volumes  
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/GH8mO3Zz7bK2g/giphy.gif" alt="PostgreSQL gif" width="250"/>
 </p>
