@@ -14,10 +14,7 @@
 | **2010+** | Expansão | Suporte a JSON, híbrido relacional + NoSQL, segurança avançada e compatibilidade multiplataforma. |
 | **Atualidade** | Popularidade global | Empresas como Instagram, Spotify, Apple e TripAdvisor utilizam. Ferramentas como pgAdmin e DBeaver apoiam. |
 
-<p align="center">
-  <img src="https://media.giphy.com/media/GH8mO3Zz7bK2g/giphy.gif" alt="PostgreSQL gif" width="250"/>
-</p>
-
+  
 # 🎯 Mural SGDB – PostgreSQL  
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3_ABebrcKM6_91YZTp7yNtcjFLNpQpBRkw&s" alt="Banner PostgreSQL" width="180"/>
