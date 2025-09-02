@@ -78,7 +78,7 @@
   - Ampla documentação oficial e tutoriais
 
 ## 👥 Integrantes do Trabalho 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 <!-- LinkedIn -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericha-barbosa-092473292/) Ericha Barbosa
 <!-- LinkedIn -->
