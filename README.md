@@ -1,7 +1,9 @@
 # <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Logo PostgreSQL" width="50"/> Trabalho-de-Banco-de-dados-PostgreSQL
 
 # 🕒 Linha do Tempo – PostgreSQL
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Open%20Source-blue?logo=postgresql)
+![License](https://img.shields.io/badge/License-PostgreSQL-green)
+![Status](https://img.shields.io/badge/Estável-✔️-brightgreen)
 <p align="center">
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Logo PostgreSQL" width="120"/>
 </p>
