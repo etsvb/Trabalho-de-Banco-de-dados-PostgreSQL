@@ -77,9 +77,11 @@
   - Fóruns, listas de e-mail, Slack, Discord  
   - Ampla documentação oficial e tutoriais
 
-## 👥 Integrantes do Trabalho
-- Ericha Barbosa
-- Flávio Gonçalves
-- Kennedy Veras
+## 👥 Integrantes do Trabalho 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- Ericha Barbosa https://www.linkedin.com/in/ericha-barbosa-092473292/
+- Flávio Gonçalves https://www.linkedin.com/in/fl%C3%A1vio-gon%C3%A7alves-961892208
+- Kennedy Veras https://www.linkedin.com/in/kennedy-de-lima-veras-48366b2b4/
+
 ## Turma:
 ADS-185
