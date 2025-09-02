@@ -75,4 +75,11 @@
 - **Comunidade:**  
   - [https://www.postgresql.org](https://www.postgresql.org)  
   - Fóruns, listas de e-mail, Slack, Discord  
-  - Ampla documentação oficial e tutoriais  
+  - Ampla documentação oficial e tutoriais
+
+## 👥 Integrantes do Trabalho
+- Ericha Barbosa
+- Flávio Gonçalves
+- Kennedy Veras
+## Turma:
+ADS-185
