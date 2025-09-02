@@ -79,14 +79,13 @@
 
 ## 👥 Integrantes do Trabalho 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-- Ericha Barbosa  <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericha-barbosa-092473292/)
-
-- Flávio Gonçalves <!-- LinkedIn -->
+- <!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericha-barbosa-092473292/) Ericha Barbosa
+- <!-- LinkedIn -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-gon%C3%A7alves-961892208)
-
-- Kennedy Veras  <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-de-lima-veras-48366b2b4/)
+ Flávio Gonçalves
+- !-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-de-lima-veras-48366b2b4/) Kennedy Veras
 
 ## Turma:
 ADS-185
