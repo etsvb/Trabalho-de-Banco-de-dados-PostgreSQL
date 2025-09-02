@@ -84,6 +84,7 @@
 <!-- LinkedIn -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-gon%C3%A7alves-961892208)
  Flávio Gonçalves
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-de-lima-veras-48366b2b4/) Kennedy Veras
 
 ## Turma:
